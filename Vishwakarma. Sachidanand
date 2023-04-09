@@ -1,0 +1,7 @@
+इको "# vishwakarma.-sachidanand.-" >> README.md 
+git init 
+git add README.md 
+git कमिट -m "फर्स्ट कमिट" 
+git ब्रांच -M मेन 
+git रिमोट ऐड ओरिजिन https://github.com/Sachi1da/vishwakarma .-सच्चिदानंद.-.गिट
+ गिट पुश -उ मूल मुख्य
